@@ -1,0 +1,11 @@
+Driver_On_Break 0
+Grocery_Store 1
+Hospital 2
+Clinic 3
+College_Campus 4
+Sports_Store 5
+Bar 6
+Bank 7
+Park 8
+Residential_District 9
+Comic_Shop 10
